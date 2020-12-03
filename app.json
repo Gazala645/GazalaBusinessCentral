@@ -1,0 +1,26 @@
+{
+  "id": "38a03a41-7d7a-4212-988c-6bb3722c032e",
+  "name": "E4kTest1.0",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://E4kTest1.0.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
